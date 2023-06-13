@@ -2,4 +2,5 @@
 
 ### Mobile Application Preview
 
-<img src="https://github.com/DarwinCamahalan/eks-app/assets/120079195/db8f3d2b-861f-4e07-a524-1227155f1450" width=40% height=40%>
+<img src="https://github.com/DarwinCamahalan/eks-app/assets/120079195/b49b49fb-f48d-4faf-9a9b-b716296da20a" width=40% height=40%>
+
