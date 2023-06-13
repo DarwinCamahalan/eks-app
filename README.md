@@ -1,4 +1,4 @@
-# React Native Application for Displaying Information of an Electric Scooter (VESC)
+# React Native Application for Displaying Information of a Electric Scooter (VESC)
 
 ### Mobile Application Preview
 
